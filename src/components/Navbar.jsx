@@ -9,11 +9,6 @@ const Navbar = () => {
           Home
         </div>
       </NavLink>
-      <NavLink to="/">
-        <div className="p-2 border rounded border-white/0 hover:border hover:border-black">
-          About
-        </div>
-      </NavLink>
     </nav>
   )
 }
